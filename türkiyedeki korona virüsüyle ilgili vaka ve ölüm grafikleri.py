@@ -42,23 +42,50 @@ def günlerdeki_toplam_ölüm_sayısı_grafiği():
 
 def sadece_o_gün_içindeki_vaka_sayısı_grafiği():
     x_values, y_values = [], []
-    print("Günlere göre sadece o günde yaşanan vaka(2.günden itibaren)")
-    for i in range(1, len(diagnose)):
-        x_values.append(i+1)
-        y = (diagnose[i] - diagnose[i-1])
-        y_values.append(y)
-    print(y_values)
+    counter = 1
+    print("Günlere göre sadece o günde yaşanan vaka")
+    y_values.append(1)
+    x_values.append(counter)
+    for i in range(0, len(diagnose)):
+        if i+1 >= len(diagnose):
+            break
+        else:
+            counter += 1
+            x_values.append(counter)
+            y = (diagnose[i+1] - diagnose[i])
+            y_values.append(y)
+    counter1 = 0
+    for i in range(len(diagnose)):
+        if counter1 >= len(diagnose):
+            break
+        print("gün = ", counter1 + 1, "vaka = ", y_values[counter1])
+        counter1 += 1
+    #print(y_values)
+    #print(x_values)
     plt.plot(x_values, y_values)
     plt.show()
 
 def sadece_o_gün_içindeki_ölüm_sayısı_grafiği():
     x_values, y_values = [], []
-    print("Günlere göre sadece o günde yaşanan ölüm(2.günden itibaren)")
-    for i in range(1, len(deaths)):
-        x_values.append(i + 1)
-        y = (deaths[i] - deaths[i - 1])
-        y_values.append(y)
-    print(y_values)
+    counter = 1
+    print("Günlere göre sadece o günde yaşanan ölüm")
+    y_values.append(0)
+    x_values.append(counter)
+    for i in range(0, len(deaths)):
+        if i + 1 >= len(deaths):
+            break
+        else:
+            counter += 1
+            x_values.append(counter)
+            y = (deaths[i + 1] - deaths[i])
+            y_values.append(y)
+    counter1 = 0
+    for i in range(len(deaths)):
+        if counter1 >= len(deaths):
+            break
+        print("gün = ", counter1 + 1, "ölüm = ", y_values[counter1])
+        counter1 += 1
+    #print(x_values)
     plt.plot(x_values, y_values)
     plt.show()
 
@@ -76,8 +103,8 @@ def toplam_ölüm_sayısının_toplam_vaka_sayısına_oranı():
 
 print("1-Toplam vakaların günlere göre grafiği \n")
 print("2-Toplam ölümlerin günlere göre grafiği \n")
-print("3-Sadece bir günde yaşanan vakaların grafiği(2.günden itibaren) \n")
-print("4-Sadece bir günde yaşanan ölümlerin grafiği(2.günden itibaren)  \n")
+print("3-Sadece bir günde yaşanan vakaların grafiği \n")
+print("4-Sadece bir günde yaşanan ölümlerin grafiği  \n")
 print("5-O gündeki toplam ölüm sayısının, yine o gündeki toplam vaka sayısına bölünmesinden çıkan sonuç grafiği \n")
 secim = int(input("Görmek istediğiniz grafiği seçin:"))
 
@@ -97,4 +124,5 @@ else:
 
 
 corona.close()
+
 
