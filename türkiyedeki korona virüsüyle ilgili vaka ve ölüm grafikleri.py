@@ -96,7 +96,7 @@ def toplam_ölüm_sayısının_toplam_vaka_sayısına_oranı():
         y = deaths[i] / diagnose[i]
         y_values.append(y)
         x_values.append(i+1)
-        print(i, y)
+        print(i+1, y)
     plt.plot(x_values, y_values)
     plt.show()
 
