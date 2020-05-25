@@ -1,4 +1,6 @@
 #Emre Beray BOZTEPE 180401026
+#Bilimsel hesaplama dersi için verilmiş vize ödevi çözümüm. Verilen verileri 1-6 dereceden polinomalara yaklaştırarak en uygun polinomu seçme
+#daha sonra bu veri gruplarını 10'arlı gruplara ayırarak aynı işlemi tekrar yapma
 
 file = open("veriler.txt", "r")
 datas = []
