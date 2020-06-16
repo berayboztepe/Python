@@ -192,7 +192,8 @@ def yazdirma():
     fnew.write("Bunun nedeni: integrali, polinomu küçük dikdörtgenler haline getirip bu dikdörtgenlerin alanlarını toplayarak bulmamızdır.\n")
     fnew.write("Yani, deltax ne kadar küçültülürse, işleme katılacak alan sayısı artar ve gerçeğe daha yakın değerler elde edilir.\n")
     fnew.write("Ancak işlem daha uzun sürer.\n")
-    fnew.write("Polinomsuz hesapta bir polinomdan değil, elimizdeki verilerden yararlanıyoruz ve deltax'i 1 aldığımız için dikdörtgeni daha küçük parçalara bölemiyoruz.\n")
-    fnew.write("Bu sebepten dolayı, polinom ile bulduğumuz integral, polinomsuz bulduğumuza göre daha doğru bir sonuç verecektir.")
+    fnew.write("Ancak bu iki integral arasındaki farkın temel sebebi deltax değil, birinci integral'i polinom haline getirirken\n")
+    fnew.write("belirli bir korelasyon sayısına göre polinoma yaklaştırmamızdandır.\n")
+    fnew.write("Bu sebepten, deltax değerlerini eşit aldığımızda bile sonucun farklı olduğunu görürüz.")
 
 yazdirma()
