@@ -1,0 +1,7 @@
+Deltax(dikdörtgenin eni) değerini ne kadar küçültürsek bulacağımız değer o kadar gerçeğe yakın olur.
+Bunun nedeni: integrali, polinomu küçük dikdörtgenler haline getirip bu dikdörtgenlerin alanlarını toplayarak bulmamızdır.
+Yani, deltax ne kadar küçültülürse, işleme katılacak alan sayısı artar ve gerçeğe daha yakın değerler elde edilir.
+Ancak işlem daha uzun sürer.
+Ancak bu iki integral arasındaki farkın temel sebebi deltax değil, birinci integral'i polinom haline getirirken
+belirli bir korelasyon sayısına göre polinoma yaklaştırmamızdandır.
+Bu sebepten, deltax değerlerini eşit aldığımızda bile sonucun farklı olduğunu görürüz.

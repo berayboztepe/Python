@@ -1,0 +1,370 @@
+*******************TUM DEGERLER ICIN*******************
+
+
+		1. derece
+1. deger = 1886.8807588075874
+2. deger = 2.705782479511554
+Korelasyon = 0.04522044508307546
+		2. derece
+1. deger = -781.8735320686577
+2. deger = 193.3310889706719
+3. deger = -2.2966904396525343
+Korelasyon = 0.8136828026056937
+		3. derece
+1. deger = -1999.2072942037207
+2. deger = 364.1752201116622
+3. deger = -7.411538179715863
+4. deger = 0.04108311437801878
+Korelasyon = 0.8678992507997666
+		4. derece
+1. deger = -521.3756127502432
+2. deger = 26.462137020028962
+3. deger = 10.640425651554333
+4. deger = -0.29585981345006723
+5. deger = 0.0020297766736632776
+Korelasyon = 0.9208867036936579
+		5. derece
+1. deger = 1047.3431631241083
+2. deger = -496.1446161577346
+3. deger = 53.65272757523644
+4. deger = -1.6650021027803295
+5. deger = 0.020529691479585905
+6. deger = -8.915621593222182e-05
+Korelasyon = 0.9619617067513437
+		6. derece
+1. deger = 812.0225628083314
+2. deger = -389.9922581673039
+3. deger = 41.325311661700106
+4. deger = -1.0801417728797336
+5. deger = 0.0074090842883207
+6. deger = 4.960068323158978e-05
+7. deger = -5.572566231741123e-07
+Korelasyon = 0.9626225006189452
+
+	***Tum degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9626225006189452)***
+
+
+*******************1 ile 10 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9995067596635171)***
+
+
+*******************2 ile 11 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9990127323718269)***
+
+
+*******************3 ile 12 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9924834684547938)***
+
+
+*******************4 ile 13 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9906455461722187)***
+
+
+*******************5 ile 14 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9912083950824523)***
+
+
+*******************6 ile 15 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9937302556178538)***
+
+
+*******************7 ile 16 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9985577476919663)***
+
+
+*******************8 ile 17 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9991976458523718)***
+
+
+*******************9 ile 18 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9999208253242693)***
+
+
+*******************10 ile 19 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9897846776682838)***
+
+
+*******************11 ile 20 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9817222749946407)***
+
+
+*******************12 ile 21 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9883949685302829)***
+
+
+*******************13 ile 22 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9875598651638119)***
+
+
+*******************14 ile 23 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9549885876236421)***
+
+
+*******************15 ile 24 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9424086014569475)***
+
+
+*******************16 ile 25 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9343737291168275)***
+
+
+*******************17 ile 26 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9199332309415444)***
+
+
+*******************18 ile 27 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9283877928754861)***
+
+
+*******************19 ile 28 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9635284969485677)***
+
+
+*******************20 ile 29 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9961764248312872)***
+
+
+*******************21 ile 30 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9930734118414454)***
+
+
+*******************22 ile 31 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9949964449528139)***
+
+
+*******************23 ile 32 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9872704681449548)***
+
+
+*******************24 ile 33 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9901805723621807)***
+
+
+*******************25 ile 34 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9779384129468598)***
+
+
+*******************26 ile 35 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9893252269479575)***
+
+
+*******************27 ile 36 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9792923359403358)***
+
+
+*******************28 ile 37 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9736451663990382)***
+
+
+*******************29 ile 38 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9903527373105558)***
+
+
+*******************30 ile 39 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9925155707661946)***
+
+
+*******************31 ile 40 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9862839581159972)***
+
+
+*******************32 ile 41 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9794990130878569)***
+
+
+*******************33 ile 42 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9752193543256968)***
+
+
+*******************34 ile 43 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.963943862439389)***
+
+
+*******************35 ile 44 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9997331135239549)***
+
+
+*******************36 ile 45 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9355932528364476)***
+
+
+*******************37 ile 46 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9693738937128904)***
+
+
+*******************38 ile 47 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9519015444259287)***
+
+
+*******************39 ile 48 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9801390906557053)***
+
+
+*******************40 ile 49 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9742127802307058)***
+
+
+*******************41 ile 50 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9913903206120832)***
+
+
+*******************42 ile 51 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9997731539622817)***
+
+
+*******************43 ile 52 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9863218938414754)***
+
+
+*******************44 ile 53 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9842905806787282)***
+
+
+*******************45 ile 54 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9818348143884497)***
+
+
+*******************46 ile 55 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9790849729204733)***
+
+
+*******************47 ile 56 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9806314502984433)***
+
+
+*******************48 ile 57 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.983401488995734)***
+
+
+*******************49 ile 58 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9983958227265184)***
+
+
+*******************50 ile 59 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9853232147777794)***
+
+
+*******************51 ile 60 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9710809130231491)***
+
+
+*******************52 ile 61 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9681351794770474)***
+
+
+*******************53 ile 62 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9818789572014333)***
+
+
+*******************54 ile 63 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.954651925518127)***
+
+
+*******************55 ile 64 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9017586713600669)***
+
+
+*******************56 ile 65 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9086680283154037)***
+
+
+*******************57 ile 66 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9216066597354594)***
+
+
+*******************58 ile 67 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.8295609071789726)***
+
+
+*******************59 ile 68 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.7934949772054455)***
+
+
+*******************60 ile 69 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.8146050607921421)***
+
+
+*******************61 ile 70 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9537685935895636)***
+
+
+*******************62 ile 71 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9988187896388586)***
+
+
+*******************63 ile 72 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.998402799466911)***
+
+
+*******************64 ile 73 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9999123147715848)***
+
+
+*******************65 ile 74 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9999073768069471)***
+
+
+*******************66 ile 75 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9966334716486247)***
+
+
+*******************67 ile 76 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9877336014543272)***
+
+
+*******************68 ile 77 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9755787793712388)***
+
+
+*******************69 ile 78 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.8918985711672316)***
+
+
+*******************70 ile 79 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9408377761640521)***
+
+
+*******************71 ile 80 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9242286931577753)***
+
+
+*******************72 ile 81 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9970477420051895)***
+
+
+*******************73 ile 82 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9952912509647716)***
+
+
+*******************0 ile 9 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9983902757621302)***
+
+
+*******************10 ile 19 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9950915978591087)***
+
+
+*******************20 ile 29 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9963945441974436)***
+
+
+*******************30 ile 39 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9925660338270837)***
+
+
+*******************40 ile 49 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9962406981371597)***
+
+
+*******************50 ile 59 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.994833140926512)***
+
+
+*******************60 ile 69 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.974645275558477)***
+
+
+*******************70 ile 79 arasindaki degerler icin*******************
+	***Bu araliktaki degerler icin en uygun polinom ve korelasyon degeri = (6, 0.9515083390250947)***
+
+
