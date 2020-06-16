@@ -1,5 +1,6 @@
 
 #it's an example of http reading, it's for actually get the data off of a web page and just treat it like a file.
+#it's like open() module
 #with socket module, we connect to the web server(80 means web server and 'data.pr4e.org' means host that we connect)
 #with get, we connect it and get infos about that http data:
 """HTTP/1.1 200 OK
