@@ -1,5 +1,5 @@
 #reading a file, finding all of the e-mails
-#and prompting them and counts
+#and printing them and counts
 
 
 fname = input("Enter file name: ")
