@@ -31,6 +31,17 @@ to do with your newfound skills.""" #this is with decode()
 
 #b'HTTP/1.1 200 OK\r\nDate: Tue, 16 Jun 2020 10:57:09 GMT\r\nServer: Apache/2.4.18 (Ubuntu)\r\nLast-Modified: Sat, 13 May 2017 11:22:22 GMT\r\nETag: "1d3-54f6609240717"\r\nAccept-Ranges: bytes\r\nContent-Length: 467\r\nCache-Control: max-age=0, no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: Wed, 11 Jan 1984 05:00:00 GMT\r\nConnection: close\r\nContent-Type: text/plain\r\n\r\nWhy should you learn to write programs?\n\nWriting programs (or programming) is a very creative \nand rewarding activity.  You can write programs'b' for \nmany reasons, ranging from making your living to solving\na difficult data analysis problem to having fun to helping\nsomeone else solve a problem.  This book assumes that \neveryone needs to know how to program, and that once \nyou know how to program you will figure out what you want \nto do with your newfound skills.  \n'
 #this is without decode!
+"""
+            Bytes(UTF8) 
+         /(decode())    \(recv())
+#String  
+                            SOCKET
+#Unicode                     
+         \(encode())    /(send())
+            Bytes(UTF8) 
+
+
+"""
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
