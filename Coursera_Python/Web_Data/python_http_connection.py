@@ -14,10 +14,10 @@ Pragma: no-cache
 Expires: Wed, 11 Jan 1984 05:00:00 GMT
 Connection: close
 Content-Type: text/plain"""
-#encode() means write them as UTF8 format(which is our writing lang, not html format) and send it
-#with while loop, we recive(512 byte) datas and prompt them to console. When len(data) comes to 1, it breaks the loop and close the website
-#otherwise, it prompts the text file(or whatever, maybe jpg, maybe another thing... etc.) to the console.
-#with decode() we decode it and prompt it in a good shape
+#encode() means convert the chars to bytes and send it.
+#with while loop, we recive(512 byte) datas and prints them to console. When len(data) comes to 1, it breaks the loop and close the website
+#otherwise, it prints the text file(or whatever, maybe jpg, maybe another thing... etc.) to the console.
+#with decode() we decode it to unicode.
 """Why should you learn to write programs?
 
 Writing programs (or programming) is a very creative 
