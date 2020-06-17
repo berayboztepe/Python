@@ -20,6 +20,7 @@ cur.execute('DROP TABLE IF EXISTS Counts')
 
 cur.execute('''CREATE TABLE Counts (org TEXT, count INTEGER)''')
 
+#mbox.txt = https://www.py4e.com/code3/mbox.txt
 fh = open('mbox.txt', 'r')
 
 for line in fh:
