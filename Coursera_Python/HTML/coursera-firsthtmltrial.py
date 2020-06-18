@@ -6,8 +6,8 @@ f = open('Helloworld.html', 'w')
 #h2 is the second prg
 #a href is for URLs
 #blink is for blinking the things that is written there
-#marquee is for scrolling the font
-#center is for centering the fonts
+#marquee is for scrolling the writing
+#center is for centering the writing
 
 message = """<html lang = "en">
 <head></head>
