@@ -71,7 +71,8 @@ for entry in all:
     if name is None or artist is None or album is None : 
         continue
     #if there's no name, artist, album of a song that we're looking for.
-
+    #ignore means = if it's already in table, don't add it one more time
+    
     #add artist names to artist table
     cur.execute('''INSERT OR IGNORE INTO Artist (name) 
         VALUES ( ? )''', ( artist, ) )
