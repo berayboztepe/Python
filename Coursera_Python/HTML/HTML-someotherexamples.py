@@ -8,23 +8,25 @@ f = open('Beray.html', 'w')
 #img src is for image that you want to open in web page
 #alt is for name to photo, width is for width xd, heigth is for height xd, 
 
-message = """<html>
+message = """<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title>This Is My Second Title</title>
+</head>
 <body>
-<img src = "issizlikgecesi.png" alt = "Image of Colleen" style="width:25%"/>
-
+<img src = "issizlikgecesi.png" alt = "Image of Us" style="width:25%"/>
 <ol>
   <li>Item One</li>
   <li>Item Two</li>
   
 </ol>   
-
+<br>
 <ul>
     <li>Item One</li>
-    <br>
     <li>Item Two</li>
 </ul>   
 </body>
-</html>       
+</html>    
 
 """
 
