@@ -9,18 +9,20 @@ f = open('Helloworld.html', 'w')
 #marquee is for scrolling the writing
 #center is for centering the writing
 
-message = """<html lang = "en">
-<head></head>
-<meta charset = "UTF-8">
-<body>
+message = """<html lang = "tr">
 <center>
-<h1>This is My First Paragraph</h1>
-<h2>This is My Second Paragraph</h2>
+<head> 
+    <title>This is my page!</title>
+    <h1>This is My First Paragraph</h1>
+    <h2>This is My Second Paragraph</h2>
+    <meta charset = "UTF-8">
+</head>
+<body>
 <blink>Click This--></blink>
 <a href = "http://www.google.com">Wanna go there?</a>
-<marquee>OR YOU AFRAID OF CLICKING LOL!</marquee>
-</center>
+<marquee>I am scroling!</marquee>
 </body>
+</center>
 </html>"""
 
 f.write(message)
