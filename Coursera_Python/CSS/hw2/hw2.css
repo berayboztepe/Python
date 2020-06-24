@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    background-image: url("flywheel.jpg");
+    background-image: url("/flywheel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px 0px 60px;
